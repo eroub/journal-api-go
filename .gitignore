@@ -1,1 +1,18 @@
+# Binary output
+journal-api
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ENV
 .env
